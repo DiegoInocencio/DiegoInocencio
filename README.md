@@ -22,10 +22,3 @@ Meus principais interesses são Backend Development 💻, Internet das Coisas (I
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-
-## 📊 Estatísticas do GitHub:
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=DiegoInocencio&show_icons=true&theme=dracula&hide_border=false" alt="Estatísticas do Diego" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoInocencio&layout=compact&theme=dracula&hide_border=false" alt="Linguagens mais usadas" height="150"/>
-</p>
